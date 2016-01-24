@@ -66,7 +66,7 @@
 
 ![Masculinity Word Frequency](https://github.com/elisebigley/text-analysis-assignment/blob/master/Word%20Frequency%20Masculinity.png?raw=true)
 	
-	- I never thought text analysis would actually support my professor's critique. For me, it is clear that text analysis is helpful in cases such as this, while less helpful when looking for terms like Holocaust in articles that may not relate. You may think you've found a connection and it is only a bibliographical reference. 
+- I never thought text analysis would actually support my professor's critique. For me, it is clear that text analysis is helpful in cases such as this, while less helpful when looking for terms like Holocaust in articles that may not relate. You may think you've found a connection and it is only a bibliographical reference. 
 
 ## What are the basic assumptions of the tool that are colouring your results?
 - The tools expect all words to be spelled right 
