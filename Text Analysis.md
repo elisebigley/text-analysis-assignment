@@ -13,7 +13,8 @@
 
 ## Word Clouds
 - I first plugged the two articles in separately into Voyant to see if there were any similarities. The word cloud that was produced gave me interesting results! 
-- ![The Future of the Past](https://cloud.githubusercontent.com/assets/14874397/12537675/b2396c48-c292-11e5-9f9f-43c1239f3b10.png) The Future of the Past
+- ![The Future of the Past](https://cloud.githubusercontent.com/assets/14874397/12537675/b2396c48-c292-11e5-9f9f-43c1239f3b10.png) 
+The Future of the Past
 - The most frequent words in each article were very different: 
 	- Looking for Jiro Onuma: Japannese, Onuma, American 
 	- The Future of the Past: Holocaust, Digital, Museum 
