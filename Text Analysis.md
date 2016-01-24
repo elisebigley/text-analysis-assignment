@@ -34,6 +34,7 @@
 - I then decided I would go back to Voyant and do a comparative analysis. I plugged in both lists of topics and used the word cloud lists as the text. Below are the results: 
 - If you compare the Looking for Jiro Onuma using Voyant with AntConc&Voyant it provides very different results. A lot of the words are not in the AntConc&Voyant image (Onuma, Japanese, American) 
 - This was less apparent in comparing the images from the article The Future of the Past (Digital, but Holocaust remains a prominent word) 
+- [Image](https://github.com/elisebigley/text-analysis-assignment/blob/master/Dig%20Holocaust%20Topic%20Analysis.png?raw=true)
 - I am curious about what these results mean for the tools and their application in text analysis, especially when comparing historical papers. Please comment with your thoughts! 
 
 ## How do the tools give you differing perspectives on the work? 
