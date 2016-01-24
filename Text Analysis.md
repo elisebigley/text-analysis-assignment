@@ -40,8 +40,8 @@
 - AntConc allows us to see thematic connections 
 - Voyant shows how often a word is used in a text file. You can compare it to another word to see how often these words come up. 
 	- This is very useful for Resumes. Maybe you are afraid you have used the words Organized, Helpful, Experienced too much. This is a very quick way to figure out something like that.
-	- I wrote a paper last semester, and my professor commented that my use of theory was strictly kept to the beginning and the end of the paper, and not used in the bulk of my analysis in the middle. While I agreed with him, it wasn't until I used Voyant on this paper that I realized just how right he was. I analyzed the frequency of the word Masculinity and received this result: 
-	- I never thought text analysis would support my professor's critique so well. For me, it is clear that text analysis is helpful in cases such as this, while less helpful when looking for terms like Holocaust in articles that may not relate. You may think you've found a connection and it is only a bibliographical reference. 
+	- I wrote a paper last semester, and my professor commented that my use of theory (on masculinity) was strictly kept to the beginning and the end of the paper, and not used in the bulk of my analysis in the middle. While I agreed with him, it wasn't until I used Voyant on this paper that I realized just how right he was. I analyzed the frequency of the word Masculinity and received this result: 
+	- I never thought text analysis would actually support my professor's critique. For me, it is clear that text analysis is helpful in cases such as this, while less helpful when looking for terms like Holocaust in articles that may not relate. You may think you've found a connection and it is only a bibliographical reference. 
 
 ## What are the basic assumptions of the tool that are colouring your results?
 - The tools expect all words to be spelled right 
