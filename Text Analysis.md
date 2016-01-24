@@ -65,6 +65,7 @@
 	- I wrote a paper last semester, and my professor commented that my use of theory (on masculinity) was strictly kept to the beginning and the end of the paper, and not used in the bulk of my analysis in the middle. While I agreed with him, it wasn't until I used Voyant on this paper that I realized just how right he was. I analyzed the frequency of the word Masculinity and received this result: 
 
 ![Masculinity Word Frequency](https://github.com/elisebigley/text-analysis-assignment/blob/master/Word%20Frequency%20Masculinity.png?raw=true)
+	
 	- I never thought text analysis would actually support my professor's critique. For me, it is clear that text analysis is helpful in cases such as this, while less helpful when looking for terms like Holocaust in articles that may not relate. You may think you've found a connection and it is only a bibliographical reference. 
 
 ## What are the basic assumptions of the tool that are colouring your results?
