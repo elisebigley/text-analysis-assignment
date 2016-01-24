@@ -36,10 +36,18 @@
 - This was less apparent in comparing the images from the article The Future of the Past (Digital, but Holocaust remains a prominent word) 
 - I am curious about what these results mean for the tools and their application in text analysis, especially when comparing historical papers. Please comment with your thoughts! 
 
-
 ## How do the tools give you differing perspectives on the work? 
+- AntConc allows us to see thematic connections 
+- Voyant shows how often a word is used in a text file. You can compare it to another word to see how often these words come up. 
+	- This is very useful for Resumes. Maybe you are afraid you have used the words Organized, Helpful, Experienced too much. This is a very quick way to figure out something like that.
+	- I wrote a paper last semester, and my professor commented that my use of theory was strictly kept to the beginning and the end of the paper, and not used in the bulk of my analysis in the middle. While I agreed with him, it wasn't until I used Voyant on this paper that I realized just how right he was. I analyzed the frequency of the word Masculinity and received this result: 
+	- I never thought text analysis would support my professor's critique so well. For me, it is clear that text analysis is helpful in cases such as this, while less helpful when looking for terms like Holocaust in articles that may not relate. You may think you've found a connection and it is only a bibliographical reference. 
 
 ## What are the basic assumptions of the tool that are colouring your results?
+- The tools expect all words to be spelled right 
+- That the use of a word will relate to a topic in the text, and not just a comment. 
+- There is no way to know the weight of a word in the word frequency tool. It could be part of the thesis or in the bibliography. 
+- The word clouds assume that the number of words relates to importance. This may be the case, but not necessarily part of the analysis. For example, if camp was a recurring word in an article, it may not necessarily represent an important theme. There is really no way to understand the importance or relevance of the word without reading it in the context of the paper itself. 
 
-## What are the basic assumptions of your brain that colour your expectations?
+
  
