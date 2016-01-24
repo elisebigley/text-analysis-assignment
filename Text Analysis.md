@@ -7,13 +7,13 @@
 ## The Texts 
 - The first article I used is called [Looking for Jiro Onuma: A Queer Meditation on the Incarceration of Japanese Americans during World War II](http://glq.dukejournals.org/content/20/3/241.abstract)
 - The second article I used is called [The Future of the Past: Digital Media in Holocaust Museums](http://www.tandfonline.com/doi/abs/10.1080/17504902.2014.11435374)
--https://cloud.githubusercontent.com/assets/14874397/12537674/b22fe966-c292-11e5-83be-79de9f011804.png
+
 
 # Voyant 
 
 ## Word Clouds
 - I first plugged the two articles in separately into Voyant to see if there were any similarities. The word cloud that was produced gave me interesting results! 
-- ![The Future of the Past](https://cloud.githubusercontent.com/assets/14874397/12537675/b2396c48-c292-11e5-9f9f-43c1239f3b10.png)
+- ![The Future of the Past](https://cloud.githubusercontent.com/assets/14874397/12537675/b2396c48-c292-11e5-9f9f-43c1239f3b10.png) The Future of the Past
 - The most frequent words in each article were very different: 
 	- Looking for Jiro Onuma: Japannese, Onuma, American 
 	- The Future of the Past: Holocaust, Digital, Museum 
