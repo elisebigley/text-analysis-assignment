@@ -13,8 +13,10 @@
 
 ## Word Clouds
 - I first plugged the two articles in separately into Voyant to see if there were any similarities. The word cloud that was produced gave me interesting results! 
+- The Future of the Past
 - ![The Future of the Past](https://cloud.githubusercontent.com/assets/14874397/12537675/b2396c48-c292-11e5-9f9f-43c1239f3b10.png) 
-The Future of the Past
+- Looking for Jiro Onuma 
+- ![Looking for Jiro Onuma](https://github.com/elisebigley/text-analysis-assignment/blob/master/Looking%20for%20Onuma.png?raw=true) 
 - The most frequent words in each article were very different: 
 	- Looking for Jiro Onuma: Japannese, Onuma, American 
 	- The Future of the Past: Holocaust, Digital, Museum 
@@ -28,13 +30,25 @@ The Future of the Past
 - I typed in four words to compare the frequency of each word in the articles. Two of the words were related to one article, the other two were related to the other: 
 	- Looking for Jiro Onuma: Japanese, Queer 
 	- The Future of the Past: Holocaust, Camp
+- Looking for Jiro Onuma
+- ![Looking for Jiro Onuma](https://github.com/elisebigley/text-analysis-assignment/blob/master/Onuma%20Word%20Frequency.png?raw=true)
+- The Future of the Past
+- ![The Future of the Past](https://github.com/elisebigley/text-analysis-assignment/blob/master/Digital%20Media%20Word%20Frequency.png?raw=true) 
 - As you can see The Future of the Past not once had Queer or Japanese in the text (come on!) while Looking for Jiro Onuma had the word Camp quite a few times. This wasn't surprising, and it made me rethink my original word choice. Of course an article about the Incarceration of Japanese Americans would have the word Camp in it. What intrigued me was the use of the word Holocaust in Looking for Jiro Onuma! Yet, once I looked at the article I realized it was a bibliographic reference. 
 - I would not recommend using word frequencies for finding connections between papers. Just because a word is frequent or appears in a paper, does not indicate much more than its presence in the paper. 
 
 # Ant Conc
 - I changed the articles from PDF format to a .txt file using [Atom](https://atom.io/), eliminated all titles, page numbers etc. I then plugged the files separately into Atom to view the various topics in each article. Below are the lists of topics for each article: 
+- The Future of the Past
+- ![The Future of the Past](https://github.com/elisebigley/text-analysis-assignment/blob/master/Digital%20Media%20and%20the%20Holocaust.png?raw=true)
+- Looking for Jiro Onuma 
+- ![Looking for Jiro Onuma](https://github.com/elisebigley/text-analysis-assignment/blob/master/Looking%20for%20Jiro%20Onuma.png?raw=true)
 - There were similarities in the topics, but I found it hard to find those connections, it was much easier in the more visually appealing word cloud or word frequency chart. 
 - I then decided I would go back to Voyant and do a comparative analysis. I plugged in both lists of topics and used the word cloud lists as the text. Below are the results: 
+- Looking for Jiro Onuma 
+- ![Looking for Jiro Onuma](https://github.com/elisebigley/text-analysis-assignment/blob/master/Onuma%20Topic%20Analysis.png?raw=true)
+- The Future of the Past 
+- ![The Future of the Past](https://github.com/elisebigley/text-analysis-assignment/blob/master/Dig%20Holocaust%20Topic%20Analysis.png?raw=true) 
 - If you compare the Looking for Jiro Onuma using Voyant with AntConc&Voyant it provides very different results. A lot of the words are not in the AntConc&Voyant image (Onuma, Japanese, American) 
 - This was less apparent in comparing the images from the article The Future of the Past (Digital, but Holocaust remains a prominent word) 
 - [Image](https://github.com/elisebigley/text-analysis-assignment/blob/master/Dig%20Holocaust%20Topic%20Analysis.png?raw=true)
@@ -45,6 +59,7 @@ The Future of the Past
 - Voyant shows how often a word is used in a text file. You can compare it to another word to see how often these words come up. 
 	- This is very useful for Resumes. Maybe you are afraid you have used the words Organized, Helpful, Experienced too much. This is a very quick way to figure out something like that.
 	- I wrote a paper last semester, and my professor commented that my use of theory (on masculinity) was strictly kept to the beginning and the end of the paper, and not used in the bulk of my analysis in the middle. While I agreed with him, it wasn't until I used Voyant on this paper that I realized just how right he was. I analyzed the frequency of the word Masculinity and received this result: 
+-![Masculinity Word Frequency](https://github.com/elisebigley/text-analysis-assignment/blob/master/Word%20Frequency%20Masculinity.png?raw=true)
 	- I never thought text analysis would actually support my professor's critique. For me, it is clear that text analysis is helpful in cases such as this, while less helpful when looking for terms like Holocaust in articles that may not relate. You may think you've found a connection and it is only a bibliographical reference. 
 
 ## What are the basic assumptions of the tool that are colouring your results?
