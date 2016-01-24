@@ -55,18 +55,17 @@
 ![The Future of the Past](https://github.com/elisebigley/text-analysis-assignment/blob/master/Dig%20Holocaust%20Topic%20Analysis.png?raw=true) 
 - If you compare the Looking for Jiro Onuma using Voyant with AntConc&Voyant it provides very different results. A lot of the words are not in the AntConc&Voyant image (Onuma, Japanese, American) 
 - This was less apparent in comparing the images from the article The Future of the Past (Digital, but Holocaust remains a prominent word) 
-[Image](https://github.com/elisebigley/text-analysis-assignment/blob/master/Dig%20Holocaust%20Topic%20Analysis.png?raw=true)
 - I am curious about what these results mean for the tools and their application in text analysis, especially when comparing historical papers. Please comment with your thoughts! 
 
 ## How do the tools give you differing perspectives on the work? 
 - AntConc allows us to see thematic connections 
 - Voyant shows how often a word is used in a text file. You can compare it to another word to see how often these words come up. 
-	- This is very useful for Resumes. Maybe you are afraid you have used the words Organized, Helpful, Experienced too much. This is a very quick way to figure out something like that.
+	- This is very useful for Resumes. Maybe you are afraid you have used the words Organized, Helpful, Experienced too often. This is a very quick way to figure out something like that.
 	- I wrote a paper last semester, and my professor commented that my use of theory (on masculinity) was strictly kept to the beginning and the end of the paper, and not used in the bulk of my analysis in the middle. While I agreed with him, it wasn't until I used Voyant on this paper that I realized just how right he was. I analyzed the frequency of the word Masculinity and received this result: 
 
 ![Masculinity Word Frequency](https://github.com/elisebigley/text-analysis-assignment/blob/master/Word%20Frequency%20Masculinity.png?raw=true)
 	
-- I never thought text analysis would actually support my professor's critique. For me, it is clear that text analysis is helpful in cases such as this, while less helpful when looking for terms like Holocaust in articles that may not relate. You may think you've found a connection and it is only a bibliographical reference. 
+- I never thought text analysis would actually support my professor's critique. For me, it is clear that text analysis is helpful in cases such as this, when you are looking at your own personal work. It is less helpful when looking for terms (and connections to other articles) in articles you have not written or read. You may think you've found a connection and it is only a bibliographical reference. 
 
 ## What are the basic assumptions of the tool that are colouring your results?
 - The tools expect all words to be spelled right 
