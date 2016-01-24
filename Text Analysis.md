@@ -7,6 +7,7 @@
 ## The Texts 
 - The first article I used is called [Looking for Jiro Onuma: A Queer Meditation on the Incarceration of Japanese Americans during World War II](http://glq.dukejournals.org/content/20/3/241.abstract)
 - The second article I used is called [The Future of the Past: Digital Media in Holocaust Museums](http://www.tandfonline.com/doi/abs/10.1080/17504902.2014.11435374)
+- https://cloud.githubusercontent.com/assets/14874397/12537674/b22fe966-c292-11e5-83be-79de9f011804.png
 
 # Voyant 
 
