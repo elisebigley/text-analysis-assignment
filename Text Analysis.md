@@ -17,7 +17,7 @@
 ![The Future of the Past](https://cloud.githubusercontent.com/assets/14874397/12537675/b2396c48-c292-11e5-9f9f-43c1239f3b10.png) 
 
 - Looking for Jiro Onuma 
-![Looking for Jiro Onuma](https://github.com/elisebigley/text-analysis-assignment/blob/master/Looking%20for%20Onuma.png?raw=true) 
+![Looking for Jiro Onuma](https://raw.githubusercontent.com/elisebigley/text-analysis-assignment/master/Photos/Looking%20for%20Onuma.png) 
 - The most frequent words in each article were very different: 
 	- Looking for Jiro Onuma: Japannese, Onuma, American 
 	- The Future of the Past: Holocaust, Digital, Museum 
