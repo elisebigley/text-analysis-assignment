@@ -62,8 +62,9 @@
 - Voyant shows how often a word is used in a text file. You can compare it to another word to see how often these words come up. 
 	- This is very useful for Resumes. Maybe you are afraid you have used the words Organized, Helpful, Experienced too often. This is a very quick way to figure out something like that.
 	- I wrote a paper last semester, and my professor commented that my use of theory (on masculinity) was strictly kept to the beginning and the end of the paper, and not used in the bulk of my analysis in the middle. While I agreed with him, it wasn't until I used Voyant on this paper that I realized just how right he was. I analyzed the frequency of the word Masculinity and received this result: 
-
+<p align="center">
 ![Masculinity Word Frequency](https://raw.githubusercontent.com/elisebigley/text-analysis-assignment/master/Photos/Word%20Frequency%20Masculinity.png)
+</p>
 	
 - I never thought text analysis would actually support my professor's critique. For me, it is clear that text analysis is helpful in cases such as this, when you are looking at your own personal work. It is less helpful when looking for terms (and connections to other articles) in articles you have not written or read. You may think you've found a connection and it is only a bibliographical reference. 
 
